@@ -12,9 +12,11 @@ public class TimeSpace {
 
         Date  date=new Date();
         System.out.println(date);
+        System.out.println("我不知道。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。");
         SimpleDateFormat  simpleDateFormat=new SimpleDateFormat("HH:mm");
         String format = simpleDateFormat.format(date);
         System.out.println(format);
+        System.out.println("你知道吗？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？");
 
     }
 }
