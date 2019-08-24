@@ -9,15 +9,12 @@ import java.util.Date;
  */
 public class TimeSpace {
     public static void main(String[] args) {
+        System.out.println("火火火火火火火火火 ");
+        System.out.println("火火火火火火火火火 ");
         System.out.println("哈哈哈哈哈哈哈 ");
-        System.out.println("哈哈哈哈哈哈哈 ");
         System.out.println("heheheehheheehhehehehehehhh");
         System.out.println("heheheehheheehhehehehehehhh");
         System.out.println("heheheehheheehhehehehehehhh");
-
-        System.out.println("heheheehheheehhehehehehehhh");
-        System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
-        System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
         System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
         System.out.println("不知道啊111111111111111111111111111111111111111111");
         Date  date=new Date();
