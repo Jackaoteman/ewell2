@@ -9,7 +9,9 @@ import java.util.Date;
  */
 public class TimeSpace {
     public static void main(String[] args) {
-
+        System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
+        System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
+        System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
         Date  date=new Date();
         System.out.println(date);
         SimpleDateFormat  simpleDateFormat=new SimpleDateFormat("HH:mm");
