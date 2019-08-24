@@ -17,6 +17,8 @@ public class TimeSpace {
         System.out.println("heheheehheheehhehehehehehhh");
         System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
         System.out.println("不知道啊111111111111111111111111111111111111111111");
+          Date  date1 =new Date();
+        SimpleDateFormat  simpleDateFormat1=new SimpleDateFormat();
         Date  date=new Date();
         System.out.println(date);
         System.out.println("你不知道。。。。。。。。。。。。。。。。。。。");
