@@ -14,9 +14,6 @@ public class TimeSpace {
         System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
         Date  date=new Date();
         System.out.println(date);
-
-
-
         System.out.println("我不知道。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。");
         SimpleDateFormat  simpleDateFormat=new SimpleDateFormat("HH:mm");
         String format = simpleDateFormat.format(date);
