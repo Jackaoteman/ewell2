@@ -9,6 +9,9 @@ import java.util.Date;
  */
 public class TimeSpace {
     public static void main(String[] args) {
+        System.out.println("方方方方方方泛");
+        System.out.println("回回回回回回回hi回回回回u会");
+        System.out.println("娟娟1111111111111111111111111");;
         System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
         System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
         System.out.println("啊······················   啊啊啊啊啊啊啊啊啊啊啊 ");
